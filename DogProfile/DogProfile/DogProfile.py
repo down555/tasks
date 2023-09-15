@@ -1,0 +1,7 @@
+print("Enter pet breed")
+Breed = (input())
+print("Enter pet age:")
+Age = int(input())
+print("Enter pet name:")
+Name = (input())
+print(Breed, Age, Name, sep=',')
